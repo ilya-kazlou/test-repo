@@ -4,3 +4,4 @@
 3. Create step3.txt
 4. Make some changes in master
 5. Create feature3 branch
+6. It is not good to commit directly to master
