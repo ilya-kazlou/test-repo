@@ -6,3 +6,4 @@
 5. Create feature3 branch
 6. It is not good to commit directly to master
 7. Create feature4 with Service.cs
+8. Feature4 is great functionality
