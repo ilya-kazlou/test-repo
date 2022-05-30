@@ -1,1 +1,2 @@
-Step3, create feature branch 3, make a few commits, checkout to master, make a few commits in master, do rebase, resolve conflicts
+Step3, create feature branch 3, make a few commits, checkout to master, make a few commits in master, do rebase, resolve conflicts #1
+Step3, create feature branch 3, make a few commits, checkout to master, make a few commits in master, do rebase, resolve conflicts #2
