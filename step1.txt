@@ -1,5 +1,6 @@
 Step 1, create 'feature1' branch Modified
-Step 2, do some changes in step1
+Step 2, do some changes in step2
+Step 3, do some changes in step3
 Step 4, do some changes in step4
 Step 5, do some changes in step5
 Step 6, do some changes in step6
