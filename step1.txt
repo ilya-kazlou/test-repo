@@ -1,2 +1,5 @@
 Step 1, create 'feature1' branch
 Step 2, do some changes in step1
+Step 4, do some changes in step4
+Step 5, do some changes in step5
+Step 6, do some changes in step6
