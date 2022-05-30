@@ -1,4 +1,4 @@
-Step 1, create 'feature1' branch
+Step 1, create 'feature1' branch Modified
 Step 2, do some changes in step1
 Step 4, do some changes in step4
 Step 5, do some changes in step5
