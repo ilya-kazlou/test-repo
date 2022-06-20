@@ -7,5 +7,9 @@ public class Service {
 
     public void Create() {
         _logger.log("Created");
+
+        if (true) {
+            _logger.log("Fly");
+        }
     }
 }
