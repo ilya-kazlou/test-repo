@@ -12,4 +12,12 @@ public class Service {
             _logger.log("Fly");
         }
     }
+
+    public void Update() {
+        _logger.log("Updated");
+
+        if (true) {
+            _logger.log("Fly");
+        }
+    }
 }
